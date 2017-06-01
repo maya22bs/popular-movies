@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Popular-Movies</string>
+
+    <!-- Label for metric option in temperature unit preference [CHAR LIMIT=25] -->
+    <string name="pref_popularity_lable" translatable="false">Popularity</string>
+
+    <!-- Value in SharedPreferences for imperial temperature unit option [CHAR LIMIT=NONE] -->
+    <string name="pref_name_lable" translatable="false">Name</string>
+
+    <!-- Key name for temperature unit preference in SharedPreferences [CHAR LIMIT=NONE] -->
+    <string name="pref_sort_by_key" translatable="false">sortBy</string>
+
+    <!-- Value in SharedPreferences for metric temperature unit option [CHAR LIMIT=NONE] -->
+    <string name="pref_popularity" translatable="false">popularity</string>
+
+    <!-- Value in SharedPreferences for imperial temperature unit option [CHAR LIMIT=NONE] -->
+    <string name="pref_name" translatable="false">name</string>
+
+    <string name="pref_title_sort_by">Sort By</string>
+
+    <string name="movies_url">"http://api.themoviedb.org/3/movie/popular?api_key=3ff91adfa0ee34ee325f30c6771dd568"</string>
+    <string name="tratilers_url">"http://api.themoviedb.org/3/movie/%1$s/videos?api_key=3ff91adfa0ee34ee325f30c6771dd568"</string>
+    <string name="reviews_url">"http://api.themoviedb.org/3/movie/%1$s/reviews?api_key=3ff91adfa0ee34ee325f30c6771dd568"</string>
+</resources>

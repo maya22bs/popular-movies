@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <string-array name="order">
+            <item >SORT BY: Popularity</item>
+            <item>SORT BY: Name</item>
+            <item>SORT BY: Rating</item>
+
+        </string-array>
+</resources>

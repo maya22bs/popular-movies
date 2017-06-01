@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#09090a</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="backgroundDetail">#ace8eeef</color>
+    <color name="titleBackgroundDetail">#d217796c</color>
+    <color name="markFavoriteButton">#d24fc6b6</color>
+    <color name="markFavoriteButton_pressed">#d238978b</color>
+    <color name="reviewItemBack">#b54fc6b6</color>
+    <color name="textColor">#e94d4e4e</color>
+
+</resources>
